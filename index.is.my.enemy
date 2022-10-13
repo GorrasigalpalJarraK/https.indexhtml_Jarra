@@ -15,3 +15,15 @@
 </html>
 <button type="button">Click Me!</button>
 <element onclick="myScript">
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title About Kristal Amberose </title>
+  </head>
+  <body>
+    <button onclick="window.location.href= https://github.com/GorrasigalpalJarraK/indexhtml_Jarra
+>
+      Click Here
+    </button>
+  </body>
+</html>
