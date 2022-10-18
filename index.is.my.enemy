@@ -51,5 +51,17 @@ p    {color: olive;}
 </head>
 <body>
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Here we specify the width and height of an image with the width and height attributes:</p>
+
+<img src="https://1.bp.blogspot.com/-WJ2ZMv3nUF8/YDEaLOZuM3I/AAAAAAAA3xI/vDgIZZWUz2QKjdI9Pe08WrHO_dWv9T3EgCLcBGAsYHQ/s0/Flag_of_the_Bahamas.gif" alt="bahamian flag" width="400" height="100">
+
+</body>
+</html>
+
+
 
 
